@@ -1,0 +1,7 @@
+
+*.pyc
+
+local*.cfg
+
+build/
+python_dogecoinlib.egg-info/
